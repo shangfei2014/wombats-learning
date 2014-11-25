@@ -4,7 +4,7 @@ title:  "luddite"
 date:   2014-11-25 11:20:14 
 categories: english
 ---
-### luddite
+### luddite [*luhd*-ahyt]
 -----------
 A person who rejects or fights against new techology and innovation.
 
