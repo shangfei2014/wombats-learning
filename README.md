@@ -2,4 +2,6 @@
 
 ----------------
 
+Run locally: `bundle exec jekyll serve`
+
 @Wombat team.
