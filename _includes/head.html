@@ -8,4 +8,13 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.jWebAudio.min.js"></script>
+    <script type="text/javascript">
+        function baseUrl() {
+            return "{{ site.baseurl }}";
+        }
+    </script>
+    <script type="text/javascript" src="{{ site.baseurl }}/js/all.js"></script>
+
 </head>
