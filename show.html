@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="show">
+
+    <ul class="bxslider">
+        {% for post in site.posts %}
+        <li>
+            {{ post.content }}
+        </li>
+        {% endfor %}
+    </ul>
+
+</div>
