@@ -3,8 +3,14 @@ $(document).ready(function(){
     adaptiveHeight: true,
     mode: 'fade',
     auto: true,
-    autoControls: true
+    autoControls: true,
+    randomStart: true,
+    responsive: false,
+    speed: 100,
+    pause: 30000
   });
+
+  setInterval(function(){ location.reload()}, 3600000);
 });
 
 function loadAudio(id, audioName) {
