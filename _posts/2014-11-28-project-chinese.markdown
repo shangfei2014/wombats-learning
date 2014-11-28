@@ -5,7 +5,8 @@ date:   2014-11-28 09:09:14
 categories: chinese
 ---
 
-### 项目 【xiàng mù 】
+### 项目 【xiàng mù 】 {% include play.html param="project" %}
+
 -----------
 project
 
