@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "hijinks"
-date:   2014-11-27 11:20:14 
+date:   2014-11-28 11:20:14 
 categories: english
 ---
-### hijinks [ˈhaɪˌdʒɪŋks]
+### hijinks [ˈhaɪˌdʒɪŋks] {% include play.html param="hijinks" %}
 -----------
 Lively enjoyment
 
