@@ -14,7 +14,7 @@ tall-rich-handsome man
 
 ### 白富美 【 bái fù měi 】 {% include play.html param="baifumei" %}
 -----------
-tall-rich-beautiful lady
+white-rich-beautiful lady
 
     白(bái)：white
     富(fù)：rich
