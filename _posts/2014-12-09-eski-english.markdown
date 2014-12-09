@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "eski"
+title:  "esky"
 date:   2014-12-09 10:26:14 
 categories: english
 ---
-### eski/esky
+### eski/esky [ˈɛskɪ]
 -----------
 Noun:
 
