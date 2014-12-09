@@ -4,7 +4,7 @@ title:  "eski"
 date:   2014-12-09 10:26:14 
 categories: english
 ---
-### eski 
+### eski/esky
 -----------
 Noun:
 
