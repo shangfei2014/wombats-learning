@@ -5,27 +5,30 @@ date:   2014-12-10 16:52:14
 categories: chinese
 ---
 
-## 雪 xuě 
+### 雪 xuě 
 
+-----------
 snow
+
+### 下 xià
+
 -----------
-
-## 下 xià
-
 fall/down
+
+### 正在 zhèng zài
+
 -----------
-
-## 正在 zhèng zài
-
 -ing/doing
------------
 
 ### 外面 wài miàn
 
-outside
 -----------
+outside
 
+
+### 外面正在下雪
+
+-----------
 It's snowing outside.
 	
-外面正在下雪
     
