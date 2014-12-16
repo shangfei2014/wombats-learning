@@ -4,7 +4,7 @@ title:  "圣诞快乐"
 date:   2014-12-15 23:40:25
 categories: chinese
 ---
-### 圣诞快乐 shènɡ dàn kuài lè 
+### 圣诞快乐 shènɡ dàn kuài lè {% include play.html param="shengdankuaile" %} 
 
 -----------
 
