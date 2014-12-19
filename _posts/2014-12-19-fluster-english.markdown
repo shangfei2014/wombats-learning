@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "fluster"
-date:   2014-12-15 10:26:14 
+date:   2014-12-19 10:26:14 
 categories: english
 ---
 ### barbie [ˈbɑr bi] {% include play.html param="flustered" %}
