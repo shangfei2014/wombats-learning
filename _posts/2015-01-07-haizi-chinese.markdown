@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "haizi"
+title:  "hái zi 孩子"
 date:   2015-01-07 09:30:14 
 categories: chinese
 ---
@@ -9,11 +9,11 @@ categories: chinese
 -----------
 kid. 
       
-孩子们 hái zi men {% include play.html param="haizimen" %}
+### 孩子们 hái zi men {% include play.html param="haizimen" %}
 -----------
 kids.
 
-小屁孩儿 xiǎo pì hái er {% include play.html param="xiaopihaier" %}
+### 小屁孩儿 xiǎo pì hái er {% include play.html param="xiaopihaier" %}
 -----------
 little kid.
 
