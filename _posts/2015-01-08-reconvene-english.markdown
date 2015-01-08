@@ -6,7 +6,7 @@ categories: english
 ---
 ### reconvene [riːkənˈviːn] {% include play.html param="reconvene" %}
 -----------
-noun /riːkənˈviːn/
+verb /riːkənˈviːn/
 
 1. to gather, call together, or summon again, especially for a formal meeting. 
 
