@@ -8,7 +8,7 @@ categories: english
 -----------
 verb 
 
-1. feel or cause to feel panic. 
+1. feel or cause to feel panic.  The feeling of stress when something is wrong
 
 "We were running late to ship our product and our Delivery Lead and Product Manager started to panic!"
 
