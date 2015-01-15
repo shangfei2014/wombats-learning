@@ -11,4 +11,4 @@ A kind of friend who knows about you deeply on mind, interests, hobby etc.
 
 E.g.
 
-	Rupi是Xiaojun的知音, because they both 非常喜欢 aircraft. 
+  Rupi是Xiaojun的知音, because they both 非常喜欢 aircraft. 
