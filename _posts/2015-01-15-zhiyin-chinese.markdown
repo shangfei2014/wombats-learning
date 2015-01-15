@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "zhī yīn 知音"
-date:   2015-01-15 09:30:14 
+date:   2015-01-15 09:20:22 
 categories: chinese
 ---
 ### 知音 zhī yīn {% include play.html param="zhiyin" %}
