@@ -1,0 +1,17 @@
+---
+layout: post
+title:  足球
+date:   2015-01-19 08:00:00
+categories: chinese
+---
+### 足球 zú qiú 
+
+-----------
+football.
+
+E.g.
+
+`There'll be a 足球 match next week`
+
+------
+
