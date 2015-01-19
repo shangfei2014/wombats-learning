@@ -1,0 +1,30 @@
+---
+layout: post
+title:  游戏
+date:   2015-01-16 08:13:19
+categories: chinese
+---
+### 游戏 yóu xì {% include play.html param="youxi" %}
+
+-----------
+game.
+
+E.g.
+
+`Minecraft is a kind of 游戏。`
+
+------
+
+|**Words**|**Meaning**
+|孩子|Normally small and very showy, but with no practical purpose.|
+|stuffy|A person or thing that causes a change.|
+|森林	|tomorrow
+|reconvene	| kids.
+|知道|	to know, to understand
+|bauble|	to gather, call together, or summon again, especially for a formal meeting.
+|程序员	 | A room or place which has bad air movement and is not very ‘fresh’
+|catalyst |	like, love, enjoy
+|明天	|forest
+|prowess|	amusement or laughter
+|喜欢|	programmer
+|mirth|	skill or expertise in a particular activity or field
