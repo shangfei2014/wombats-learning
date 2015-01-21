@@ -7,7 +7,11 @@ categories: english
 ### mirth [ˈmərth] {% include play.html param="mirth" %}
 -----------
 noun \ˈmərth\
-1. gaiety or jollity, especially when accompanied by laughter:
-"the excitement and mirth of the holiday season."
-2. amusement or laughter:
-"He was unable to conceal his mirth."
+
+- gaiety or jollity, especially when accompanied by laughter:
+
+`the excitement and mirth of the holiday season.`
+
+- amusement or laughter:
+
+`He was unable to conceal his mirth.`
