@@ -4,7 +4,7 @@ title:  "tardy"
 date:   2015-01-22 10:26:14 
 categories: english
 ---
-### mirth [ˈtɑːdi] {% include play.html param="tardy" %}
+### tardy [ˈtɑːdi] {% include play.html param="tardy" %}
 -----------
 adjective
 
