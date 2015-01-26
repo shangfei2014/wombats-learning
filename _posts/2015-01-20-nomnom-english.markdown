@@ -7,9 +7,11 @@ categories: english
 ### nom nom [nɒmˌnɒm]
 -----------
 exclamation \nɒmˌnɒm\
-1. used to express pleasure at eating, or at the prospect of eating, delicious food.
-"Xi'an style cumin lamb ribs for dinner, nom nom!"
 
-noun
-2. delicious food.
-"there were all kinds of nom noms—onion rings, hot dogs, burgers, and fries"
+- used to express pleasure at eating, or at the prospect of eating, delicious food.
+
+`Xi'an style cumin lamb ribs for dinner, nom nom!`
+
+- noun. delicious food.
+
+`there were all kinds of nom noms—onion rings, hot dogs, burgers, and fries`

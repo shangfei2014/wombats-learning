@@ -7,7 +7,11 @@ categories: english
 ### prowess [ˈpraʊɪs] {% include play.html param="prowess" %}
 -----------
 noun \ˈpraʊɪs\
-1. skill or expertise in a particular activity or field.
-"her prowess as a ruby developer"
-2. bravery in battle.
-"the hereditary nobility had no monopoly of skill and prowess in war"
+
+- skill or expertise in a particular activity or field.
+
+  `her prowess as a ruby developer`
+
+- bravery in battle.
+
+  `the hereditary nobility had no monopoly of skill and prowess in war`
