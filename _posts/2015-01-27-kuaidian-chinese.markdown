@@ -13,4 +13,4 @@ categories: chinese
 
 点: a little, some
 
-快点！It's time for stand-up!
+Example : 快点！It's time for stand-up!
