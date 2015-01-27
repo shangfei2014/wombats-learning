@@ -10,6 +10,7 @@ categories: chinese
 快点！Hurry up 
 
 快: hurry up
+
 点: a little, some
 
 快点！It's time for stand-up!
