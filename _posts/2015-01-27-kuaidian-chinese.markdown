@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "kuài diǎn 快点"
-date:   2015-01-27 09:20:22 
+date:   2015-01-27 10:25:22 
 categories: chinese
 ---
 ### 快点 kuài diǎn 
