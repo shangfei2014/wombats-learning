@@ -4,30 +4,30 @@ title:  "Test"
 date:   2015-01-29 09:01:22 
 categories: english 
 ---
-C-1.Slow down.
+Question 1: When Mat is late, he is....
 <p>
-E-1.While talking, letting the topic wander away from the main purpose, or the thing which you are supposed to be talking about.
+Question 2: When Erica starts talking about games when she started talking about work
 <p>
-C-2.City.
+Question 3: When Rupi says things to make us feel good and want to improve
 <p>
-E-2.An exclamation, to show that something unwanted or unplesant has occurred.
+Question 4: When we are a massive unstoppable force taht crushes everything in our path
 <p>
-C-3.Moring.
+Question 5: Trent is enjoying eating
 <p>
-E-3.Help or encourage (something) to increase or improve.
-<p>
-C-4.Plan.
-<p>
-E-4.A massive unstoppable force that crushes everything in its path.
-<p>
-C-5.Hurry up.
-<p>
-E-5.Something late or delayed.
-<p>
-C-6.Wombat.
-<p>
-E-6.Express pleasure at eating, or at the prospect of eating, delicious food.
+Question 6: Something that you say when you are annoyed at yourself
 <p>
 ---------------------------------------------------------------------------------------------------------------------------------
-<br>计划 jì huà &emsp;早晨 zǎo chén&emsp;袋熊 dài xióng&emsp;城市 chéng shì&emsp;慢点 màn diǎn&emsp;快点 kuài diǎn      
-<br>boost&emsp;&emsp;digress&emsp;&emsp;tardy&emsp;&emsp;juggernaut&emsp;&emsp;drat&emsp;&emsp;nom nom                 
+<br>
+boost
+<p>
+drat
+<p>
+tardy
+<p>
+juggernaught
+<p>
+nom nom
+<p>
+digress
+<p>
+
