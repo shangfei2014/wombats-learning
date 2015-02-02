@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "tacit"
-date:   2015-01-23 10:26:14 
+date:   2015-02-02 10:26:14 
 categories: english
 ---
 ### tacit [/ˈtæs ɪt/]
