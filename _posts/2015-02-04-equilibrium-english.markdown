@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "equilibrium"
-date:   2015-02-02 10:26:14 
+date:   2015-02-04 10:26:14 
 categories: english
 ---
 ### equilibrium [/ˌiːkwɪˈlɪbrɪəm,ˌɛkwɪ-/]
