@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "萌萌哒"
+title:  "萌萌哒 méng méng dā"
 date:   2015-02-06 09:00:01
 categories: chinese
 ---
