@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "oblivious"
-date:   2015-02-05 10:26:14 
+title:  "haggle"
+date:   2015-02-11 10:26:14 
 categories: english
 ---
-### oblivious [/əˈblɪv i əs/]
+### haggle [/ˈhæg əl/]
 -----------
-Not knowing anything at all
+Negotiate a cost for something. Normally, each person picks an unreasonable amount, and then they eventually agree at a mid-point.
 
-* Rupi told me it was my turn to do word... But I was oblivious!
+* Trent might need to haggle with Herry if we need more people on our team.
