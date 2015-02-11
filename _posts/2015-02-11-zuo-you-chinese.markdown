@@ -17,6 +17,6 @@ example：
 
 左边 zuǒ biān: left side
 
-右手 zuǒ shǒu: right hand
+左手 zuǒ shǒu: left hand
 
 
