@@ -7,6 +7,7 @@ categories: english
 ### rationale [ˌraʃəˈnɑːl] {% include play.html param="rationale" %}
 -----------
 noun \ˌraʃəˈnɑːl\
+
 1. a set of reasons or a logical basis for a course of action or belief.
 
 "he explained the rationale behind the change"
