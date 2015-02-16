@@ -14,6 +14,8 @@ adj.
 e.g.
 ---
 - 你[nǐ]太[tài]酷[kù]了[le]
-> you're so cool.
+
+  > you're super cool.
 - 酷[kù]毙[bì]了[le]
->cool cool cool.
+
+  >cool cool cool.
