@@ -12,6 +12,6 @@ adj.
 
 Example:
 
-	- 真 zhēn : very
-	
-	- 你 nǐ (You) 真 zhēn (are very) 棒 bàng (Awesome)！
+    - 真 zhēn : very
+
+    - 你 nǐ (You) 真 zhēn (are very) 棒 bàng (Awesome)！
