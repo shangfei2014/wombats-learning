@@ -16,10 +16,10 @@ noun.
 
     电X: describe something powered by electronic
 
-      电话: telephone
-      电灯: light
-      电视: TV
-      电梯: lift/elevator
+      电 + 话(speak) = telephone
+      电 + 灯(light) = light
+      电 + 视(vision) = television
+      电 + 梯(ladder) = lift/elevator
       ...
 
 
