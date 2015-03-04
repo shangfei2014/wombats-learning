@@ -10,5 +10,5 @@ adjective \ˈɒpətjuːn\
 
 1. (of a time) especially convenient or appropriate for a particular action or event.
 
-"he couldn't have arrived at a less opportune moment"
+"he couldn't have arrived at a more opportune moment"
 
