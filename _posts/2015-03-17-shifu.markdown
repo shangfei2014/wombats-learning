@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "shifu"
+date:   2015-03-17 09:59:14
+categories: chinese
+---
+### 师父 [shī fu]
+-----------
+
+master, qualified worker
+
+### 徒儿 [tú  er]
+-----------
+disciples
+
+
+
+师: `master; teacher; expert;`
+
+父: `farther`
+
+
+徒 `apprentice; disciple;`
+
+儿 `son`
+
+e.g  
+
+### 最著名的师父与徒弟 The famous master and apprentice
+<img width="400" src="/wombats-learning/images/tangseng.jpg"/>
+<img width="300" src="/wombats-learning/images/sunwukong.jpg"/>
