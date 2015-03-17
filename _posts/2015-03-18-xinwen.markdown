@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "xinwen"
+date:   2015-03-18 09:59:14
+categories: chinese
+---
+### 新闻 [xīn wén]
+-----------
+
+news
+
+新: `new`
+
+闻: `hear; smell`
+
+e.g  today‘s news
+
+  今天的新闻
