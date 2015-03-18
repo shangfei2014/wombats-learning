@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "fabu"
+date:   2015-03-12 09:59:14
+categories: chinese
+---
+### 发布 [fā bù]
+-----------
+
+release
+
+发: `hair；send out;`
+
+布: `fabric；announce；spread`
+
+e.g  We released yesterday
+
+  我们昨天(zuó tiān)发布了
