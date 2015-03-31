@@ -7,6 +7,7 @@ categories: chinese
 ### 孤独 [ɡū dú]
 -----------
 
+
 lonely.
 
 孤独一人：just one person alone here.
