@@ -13,4 +13,4 @@ perfect
 
 e.g Perfect plan！ 完美的计划
 
-<img width="400" src="/wombats-learning/images/perfect.jpg"/>
+<img width="400" src="/womba.ts-learning/images/perfect.jpg"/>
