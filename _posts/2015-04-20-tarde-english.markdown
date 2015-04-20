@@ -7,7 +7,9 @@ categories: english
 ### tarde [’taɾde]
 -----------
 
-A latin based word (Tardus) that is common in Spanish that is used in English as another way of saying someone is 'late' or 'slow'
+A latin based word (Tardus) that is common in Spanish that is used in English as another way of saying someone is 'late' or 'slow'.
+
+This is another Spanish word that is used in english converstations, like 'gracias' or 'ciao'.
 
 "You are tarde today"
 
