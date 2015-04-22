@@ -11,7 +11,7 @@ weekend.
 
 -----------
 
-周 zhōu `weekend`
+周 zhōu `week`
 
 末 mò `the end`
 
