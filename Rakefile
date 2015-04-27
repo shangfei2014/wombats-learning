@@ -34,7 +34,7 @@ class WordTemplateParamsLoader
     @title = standard_filename_nosuffix(@word)
     @now = DATE + ' ' + TIME
     @category = args[:category].start_with?('e') ? 'english':'chinese'
-    @file_path = './_posts/'+DATE+'-'+@category+'-'+@title+'.markdown'
+    @file_path = './_posts/'+DATE+'-'+@title+'-'+@category+'.markdown'
   end
 
   def params
