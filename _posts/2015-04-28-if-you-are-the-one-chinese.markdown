@@ -2,7 +2,7 @@
 layout: post
 author: Jesse
 title: "if-you-are-the-one"
-category: chinese
+categories: chinese
 date: 2015-04-28 02:04:02
 ---
 
