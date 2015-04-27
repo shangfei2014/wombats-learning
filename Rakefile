@@ -31,10 +31,10 @@ class WordTemplateParamsLoader
   def initialize(args)
     @author = args[:author]
     @word = args[:word]
-    @title = standard_filename_nosuffix(@word)
+    title = standard_filename_nosuffix(@word)
     @now = DATE + ' ' + TIME
     @category = args[:category].start_with?('e') ? 'english':'chinese'
-    @file_path = './_posts/'+DATE+'-'+@title+'-'+@category+'.markdown'
+    @file_path = './_posts/'+DATE+'-'+title+'-'+@category+'.markdown'
   end
 
   def params
