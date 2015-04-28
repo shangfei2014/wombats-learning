@@ -7,8 +7,6 @@ DATE = Time.now.strftime("%Y-%m-%d")
 TIME = Time.now.strftime("%H:%M:%S")
 POST_TIME = DATE + ' ' + TIME
 
-task :default => :new_post
-
 
 desc "new word in _posts"
 task :new,:author, :category, :word do |t, args|
