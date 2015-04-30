@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "telepath"
+title:  "telepathic"
 date:   2015-04-30 10:26:14 
 categories: english
 ---
