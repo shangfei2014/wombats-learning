@@ -7,8 +7,6 @@ DATE = Time.now.strftime("%Y-%m-%d")
 TIME = Time.now.strftime("%H:%M:%S")
 POST_TIME = DATE + ' ' + TIME
 
-task :default => :new_post
-
 
 desc "new word in _posts"
 task :new,:author, :category, :word do |t, args|
@@ -31,10 +29,10 @@ class WordTemplateParamsLoader
   def initialize(args)
     @author = args[:author]
     @word = args[:word]
-    @title = standard_filename_nosuffix(@word)
+    title = standard_filename_nosuffix(@word)
     @now = DATE + ' ' + TIME
     @category = args[:category].start_with?('e') ? 'english':'chinese'
-    @file_path = './_posts/'+DATE+'-'+@title+'-'+@category+'.markdown'
+    @file_path = './_posts/'+DATE+'-'+title+'-'+@category+'.markdown'
   end
 
   def params
