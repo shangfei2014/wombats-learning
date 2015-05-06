@@ -2,7 +2,7 @@
 layout: post
 title:  "brisk"
 date:   2015-05-06 10:26:14 
-categories: englisbh
+categories: english
 ---
 ### brisk [brɪsk]
 -----------
