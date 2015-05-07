@@ -8,6 +8,7 @@ categories: chinese
 便利贴(biàn lì tiē) 淘气(táo qì) 比赛(bǐ sài) 时尚(shí shàng) 非诚勿扰(fēi chéng wù rǎo)
 
 # brisk seriatim telepathic articulate subjective
+<img width='180' src="/wombats-learning/images/test.jpg"/>
 
 -----------
 
@@ -20,9 +21,9 @@ categories: chinese
   4E. If someone can hear what other people are thinking...
  
   5C. What we always use to write down stories...
-  
+ 
 <img width='180' src="/wombats-learning/images/dog.jpg"/>
-  
+
   6C. What Lu and Meng win...
   
   7E. If I walk too fast, you can say...
