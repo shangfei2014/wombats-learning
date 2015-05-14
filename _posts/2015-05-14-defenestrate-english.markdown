@@ -9,7 +9,7 @@ categories: english
 
 - to throw someone out the window
 
-"We want to defenestrated Dave Collins if we cannot do Push Notifications"
+"We want to defenestrate Dave Collins if we cannot do Push Notifications"
 
 
 (Thanks Mei for the word!)
