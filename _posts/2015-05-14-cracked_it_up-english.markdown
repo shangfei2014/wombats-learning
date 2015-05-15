@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "cracked it/cracked up"
-date:   2015-05-12 10:26:14 
+date:   2015-05-15 10:26:14 
 categories: english
 ---
 ### noun [/krækt it/]
