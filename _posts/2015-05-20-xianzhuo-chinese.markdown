@@ -14,16 +14,15 @@ flip
 桌
 table
 
-e.g
+e.g.
 ---
     Debug on jetwire is so painful that I want to (╯￣Д￣)╯╘═╛
-
 
 <img width='400' src="/wombats-learning/images/xianzhuo.jpeg"/>
 
 
-
-
+#### ruby version
+---
     def ╯#-_-)╯┴—┴
       puts "(╯#O_o)╯┴—┴ )"
     end
