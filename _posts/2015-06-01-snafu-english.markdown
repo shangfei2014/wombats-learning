@@ -4,7 +4,7 @@ title:  "snafu"
 date:   2015-06-01 10:26:14 
 categories: english
 ---
-### adverb [snæˈfu]
+### noun [snæˈfu]
 -----------
 
 A situation which is very out of control and confusing.
