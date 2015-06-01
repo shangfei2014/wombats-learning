@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "snafu"
-date:   2015-05-25 10:26:14 
+date:   2015-06-01 10:26:14 
 categories: english
 ---
 ### adverb [snæˈfu]
