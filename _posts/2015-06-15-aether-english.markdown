@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "aether"
-date:   2015-06-10 10:26:14 
+date:   2015-06-15 10:26:14 
 categories: english
 ---
 ### noun [ˈi θər]
