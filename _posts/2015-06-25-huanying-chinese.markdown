@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "欢迎"
-date:   2015-06-24 09:09:14
+title:  "欢迎 huān yíng"
+date:   2015-06-25 09:09:14
 categories: chinese
 ---
 ### 欢迎 [huān yíng ]
