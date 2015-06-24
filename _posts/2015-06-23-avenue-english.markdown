@@ -11,6 +11,6 @@ categories: english
 
 2. a way of approaching a problem or making progress towards something.
 
-"We plan to pursue all available avenues to get our message to the the management team"
+"We plan to pursue all available avenues to achieve our team goals"
 
 <img width='300' src="http://www.youwall.com/papel/memorial_avenue_wallpaper_d5a08.jpg"/>
