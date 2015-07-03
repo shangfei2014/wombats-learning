@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "denouement"
-date:   2015-07-02 10:26:14 
+date:   2015-07-03 10:26:14 
 categories: english
 ---
 ### adjective [deɪˈnuːmɒ̃]
