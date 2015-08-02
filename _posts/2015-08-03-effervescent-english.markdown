@@ -6,7 +6,7 @@ categories: english
 ---
 ### adjective [/ˌɛf ərˈvɛs ənt/]
 -----------
-Effervescent - Bubbly!
+Bubbly!
 
-<img width='800' src="/wombats-learning/images/bubbles.jpg"/>
+<img width='400' src="/wombats-learning/images/bubbles.jpg"/>
 
