@@ -16,6 +16,11 @@ categories: chinese
    物 `object； animal`
 
 
+e.g Erica has a pet
+
+    Erica 有(has)一个(a) 宠物(pet)
+
+
 
 
 
