@@ -10,7 +10,7 @@ categories: english
 
 2. examine (something) thoroughly so as to isolate that which is most important.
 
-"I have uncovered lots of interesting information while sifting through changelog"
+"I have uncovered lots of interesting information while sifting through change-log"
 
 <img width='400' src="http://static.americastestkitchenfeed.com/wp-content/uploads/2011/12/STP_AngelFoodCake_SiftFlour-574x383.jpg"/>
 
