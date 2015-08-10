@@ -6,6 +6,7 @@ categories: english
 ---
 ### adjective [ˈtraŋkwɪl]
 -----------
+
 free from disturbance; calm.
 
 "the sea was tranquil"
