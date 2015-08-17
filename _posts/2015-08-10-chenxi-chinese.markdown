@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "晨曦 chén xī"
-date:   2015-08-07 09:09:14
+date:   2015-08-10 09:09:14
 categories: chinese
 ---
 ### 晨曦 [chén xī]
