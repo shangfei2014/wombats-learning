@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "银行 yín háng"
-date:   2015-08-18 09:09:14
+date:   2015-08-19 09:09:14
 categories: chinese
 ---
 ### 银行 [yín háng]
