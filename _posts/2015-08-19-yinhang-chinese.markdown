@@ -16,4 +16,4 @@ nonu. bank
 -----------
 
 
-<img width='800' src="/wombats-learning/images/bank.png"/>
+<img width='800' src="/wombats-learning/images/bank.jpg"/>
