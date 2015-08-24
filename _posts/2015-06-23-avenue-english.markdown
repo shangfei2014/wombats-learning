@@ -4,7 +4,7 @@ title:  "avenue"
 date:   2015-06-23 10:26:14 
 categories: english
 ---
-### noun [ˈav(ə)njuː]
+### noun [ˌsuːpəˈfɪʃ(ə)l]
 -----------
 
 1. a broad road in a town or city, typically having trees at regular intervals along its sides.
