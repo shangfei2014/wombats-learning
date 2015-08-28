@@ -7,7 +7,7 @@ categories: chinese
 ### 数据 [shù jù]
 -----------
 
-nonu. data
+non. data
 
 数[shù]: number
 
