@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "aggrieved"
-date:   2015-09-02 10:26:14
+date:   2015-09-07 10:26:14
 categories: english
 ---
 ### adjective [əˈɡriːvd]
