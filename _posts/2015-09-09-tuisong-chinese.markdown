@@ -4,12 +4,12 @@ title:  "推送 tuī sòng"
 date:   2015-09-09 09:09:14
 categories: chinese
 ---
-### 推送 [shove sòng]
+### 推送 [tuī sòng]
 -----------
 
 v. push
 
-推[shove]: push, shove
+推[tuī]: push, shove
 
 送[sòng]: deliver, send
 
