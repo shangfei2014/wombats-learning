@@ -11,3 +11,11 @@ a figure of speech in which apparently contradictory terms appear in conjunction
 when two contradictory terms are used together.
 
 "gun safety is an oxymoron"
+
+Other examples:
+Clearly confused
+Act naturally
+Deafening silence
+Pretty ugly
+Virtual reality
+Run slowly
