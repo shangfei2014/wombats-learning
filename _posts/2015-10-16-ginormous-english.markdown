@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ginormous"
-date:   2015-10-15 10:26:14
+date:   2015-10-16 10:26:14
 categories: english
 ---
 ### adjective [dʒʌɪˈnɔːməs]
