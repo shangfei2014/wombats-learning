@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ornery"
-date:   2015-10-16 10:26:14
+date:   2015-10-22 10:26:14
 categories: english
 ---
 ### adjective [ˈɔːnəri]
