@@ -16,6 +16,6 @@ categories: chinese
   taco(tacos): Mexico corn pie with vegetables, pork, beef etc.(墨西哥煎玉米卷)
 
 -----------
-<img width='400' src="/wombats-learning/images/taco_1.JPG"/>
-<img width='400' src="/wombats-learning/images/taco_2.JPG"/>
-<img width='400' src="/wombats-learning/images/taco_3.JPG"/>
+<img width='400' src="/wombats-learning/images/taco_1.jpg"/>
+<img width='400' src="/wombats-learning/images/taco_2.jpg"/>
+<img width='400' src="/wombats-learning/images/taco_3.jpg"/>
