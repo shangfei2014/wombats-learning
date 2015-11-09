@@ -7,7 +7,7 @@ categories: chinese
 ### 订单 [dìng dān]
 -----------
 
-adj. order for goods
+noun. order for goods
 
 -----------
 
