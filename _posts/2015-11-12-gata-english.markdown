@@ -25,11 +25,11 @@ gata: cat (female)
 
 Back it up (Spanish)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GmGv2N7yMiQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GmGv2N7yMiQ" frameborder="0" allowfullscreen></iframe>
 
 
 
 Back it up (English)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=9w9dXWU5nMI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9w9dXWU5nMI" frameborder="0" allowfullscreen></iframe>
 
