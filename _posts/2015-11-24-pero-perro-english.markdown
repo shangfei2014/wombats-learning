@@ -22,13 +22,9 @@ categories: english
 + Those (female) dogs = Las Perras
 
 
-pero me gusta los perros
+What do you think this says:
 
-pero me gusta la perra
-
-pero me gusta el perro
-
-me gusta el perro pero no me gusta las perras
+me gusta los perros pero no me gusta los gatos
 
 
 
