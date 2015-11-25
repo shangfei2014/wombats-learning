@@ -1,18 +1,14 @@
 ---
 layout: post
-title:  "搜索 sōu suǒ"
-date:   2015-11-24 09:09:14
+title:  "咖啡 kā fēi"
+date:   2015-11-25 09:09:14
 categories: chinese
 ---
-### 搜索 [sōu suǒ]
+### 咖啡 [kā fēi]
 -----------
 
-v, n. search / seek
-
-搜[sōu]: search / seek
-
-索[suǒ]: seek
+n. coffee (transliteration)
 
 -----------
 
-`Google is good at 搜索.`
+<img width='300' src="/wombats-learning/images/kafei.jpg"/>
