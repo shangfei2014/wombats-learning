@@ -4,7 +4,7 @@ title:  "mas o menos"
 date:   2015-12-01 10:26:14
 categories: english
 ---
-### phrase (spanish)
+### Spanish stuff!
 -----------
 
 <img width='200' src="http://aretheyoldenough.com/wp-content/uploads/2014/12/dora-the-explorer.jpg" />
@@ -28,7 +28,9 @@ me gusta el gato pero no te gusta el perro
 ###  And, or, but:
 
 y
+
 o
+
 pero
 
 
@@ -46,6 +48,42 @@ Minus / less = menos
 mas o menus
 
 
+### words to date:
+
+me  = me
+
+you (friend) = te
+
+and = y
+
+or = o
+
+but = pero
+
+please (like) = gusta
+
+dog = perro
+
+cat = gato
+
+the (male single) = el 
+
+the (male group) = los
+
+the (female single) = la 
+
+the (female group) = las
+
+more = mas
+
+less = menos
+
+today = hoy
+
+how = como
+
+are you feeling  = estas  ("to be" verb)
+
 ## How its used in language
 
 How are you today?   "¿Como estas hoy?"
@@ -61,8 +99,3 @@ I am ok.  "mas o menos"
 
 
 
-become or make greater in intensity, number, amount, or volume.
-
-"Wolf population in Poland has swelled back after being wiped out more than 50 years ago"
-
-<img width='400' src="http://scienceinpoland.pap.pl/Data/Thumbs/_plugins/information/403362/MTAyNHg3Njg,18341552_18229266.jpg"/>
