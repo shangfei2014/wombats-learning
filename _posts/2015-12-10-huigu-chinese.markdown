@@ -16,7 +16,7 @@ v. review, look back, retrospect
 
 -----------
 
-Today, We will 回顾 what happened this week.
+We have retro every week to 回顾 what happened in the last week.
 
 
 <img width='800' src="/wombats-learning/images/huigu.jpg"/>
