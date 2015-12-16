@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "口罩 kǒu zhào"
-date:   2015-12-15 09:09:14
+title:  "上帝 shàng dì"
+date:   2015-12-16 19:30:14
 categories: chinese
 ---
-### 口罩 [kǒu zhào]
+### 上帝 [shàng dì]
 -----------
 
-n. mask; respirator
+n. God
 
-口[kǒu]:  mouth
+上[shàng]:  upper; above
 
-罩[zhào]: cover; shade
+帝[dì]: Emperor; king
 
 -----------
 
-e.g. A lot of people wear masks(口罩) in office recent days.
+e.g. If God(上帝) is for us, who can be against us?
 
-<img width='800' src="/wombats-learning/images/kouzhao.jpg"/>
+<img width='400' src="/wombats-learning/images/shangdi.jpg"/>
