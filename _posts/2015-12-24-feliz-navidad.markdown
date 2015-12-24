@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "feliz navidad and the 27th letter"
-date:   2015-12-14 10:26:14
+date:   2015-12-24 10:26:14
 categories: english
 ---
 ### Spanish stuff!
@@ -12,9 +12,9 @@ categories: english
 
 ### Some notes
 
-- There are 50,000 characters in Chinese 
 - There are 26 letters in English 
 - There are 27 letters in Spanish (just to be special)
+- There are over 50,000 characters in Chinese 
 
 
 abcdefghijkl
