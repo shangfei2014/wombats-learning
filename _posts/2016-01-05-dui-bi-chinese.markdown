@@ -13,6 +13,8 @@ v/n. contrast
 
 e.g. The air in and out of the mountains contrasts distinctly.
 
+(Photos taken on Sunday)
+
 
 <img width='350' src="/wombats-learning/images/duibi_1.jpg"/>
 <img width='350' src="/wombats-learning/images/duibi_2.jpg"/>
