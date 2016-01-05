@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "that way | like that | why | because | asi | por que "
+title:  "that way, like that,  why, because, asi,  por que "
 date:   2016-01-05 10:26:14
 categories: english
 ---
