@@ -11,9 +11,9 @@ v/n. translate/translation
 
 -----------
 
-  翻[fān] single, one, odd, bill
+  翻[fān] turn over
 
-  译[yì] body  
+  译[yì] translate  
 
 -----------
 
