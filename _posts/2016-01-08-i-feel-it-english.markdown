@@ -19,7 +19,7 @@ So to say "I fell" you say "siento" (conjugation)
 
 it = 'lo' 
 
-But you say "it" before, not afters
+But you say "it" before, not after
 
 So to say
 
@@ -27,7 +27,7 @@ So to say
 
 ### I'm sorry
 
-When someone in Spanish says "I fell it", what they are realy saying is "I'm sorry"
+When someone in Spanish says "I fell it", what they are really saying is "I'm sorry"
 
 
 ### how would you say
