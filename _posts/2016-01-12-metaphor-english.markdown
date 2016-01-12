@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "metaphor"
-date:   2015-01-12 11:36:14
+date:   2016-01-12 11:36:14
 categories: english
 ---
 ### noun  [/ˈmɛtəfə,-fɔː/] 隐喻
