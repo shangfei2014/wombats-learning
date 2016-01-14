@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "么马达"
+title:  "么嘛哒 me ma da"
 date:   2016-01-14 20:08:14
 categories: chinese
 ---
-###么马达 [me ma da]
+###么嘛哒 [me ma da]
 -----------
 
 [Shaanxi dialect] n. no problem
