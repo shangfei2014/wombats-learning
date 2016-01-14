@@ -15,6 +15,6 @@ Roger Moore
 
 馍 mó : steamed bread
 
-[Shaanxi food]
+[Shaanxi food] Meat is clamped by steamed bread.
 
 <img width='300' src="/wombats-learning/images/roujiamo.jpg"/>
