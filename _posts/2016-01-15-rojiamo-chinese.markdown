@@ -1,20 +1,24 @@
 ---
 layout: post
-title:  "肉夹馍 ròu jiā mó"
+title:  "取代 qǔ dài"
 date:   2016-01-15 09:08:14
 categories: chinese
 ---
-###肉夹馍 [ròu jiā mó]
+###取代 [qǔ dài]
 -----------
 
-Roger Moore
+取代: remove something and replace with new one
 
-肉 ròu : meat(pork/beef)
+取 qǔ : take, take away
 
-夹 jiā : be clamped
+代 dài : replace
 
-馍 mó : steamed bread
+Alan Rickman can't be replaced! He is Severus Snape. Severus Snape is him.
 
-[Shaanxi food] Meat is clamped by steamed bread.
+-----------
 
-<img width='300' src="/wombats-learning/images/roujiamo.jpg"/>
+Alan Rickman : Outstanding Artist from London and is most famous for his portrayal of potions teacher Severus Snape in the Harry Potter films.
+
+Severus Snape : Fictional character in J. K. Rowling's Harry Potter series.
+
+<img width='300' src="/wombats-learning/images/SnapeSeverus.jpg"/>
