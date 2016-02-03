@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "llamar" (ya mar)
+title:  "llamar (ya mar)"
 date:   2016-02-02 10:26:14
 categories: english
 ---
